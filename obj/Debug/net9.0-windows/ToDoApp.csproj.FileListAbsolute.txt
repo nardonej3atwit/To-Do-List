@@ -1,0 +1,15 @@
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.AssemblyInfo.cs
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.sourcelink.json
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\bin\Debug\net9.0-windows\ToDoApp.exe
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\bin\Debug\net9.0-windows\ToDoApp.deps.json
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\bin\Debug\net9.0-windows\ToDoApp.runtimeconfig.json
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\bin\Debug\net9.0-windows\ToDoApp.dll
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\bin\Debug\net9.0-windows\ToDoApp.pdb
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.dll
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\refint\ToDoApp.dll
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.pdb
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ToDoApp.genruntimeconfig.cache
+C:\Users\jishy\Desktop\Coding Projects\C# work\TaskSheetFinal\ToDoApp\obj\Debug\net9.0-windows\ref\ToDoApp.dll
